@@ -8,8 +8,8 @@ the time of your life.
 With this software you can track you time using different categories, view
 statistics, search for records and view history for specific period.
 
-![screenshot-recent](https://raw.githubusercontent.com/g-timetracker/g-timetracker.github.io/master/images/screenshots/recent.png)
-![screenshot-stats](https://raw.githubusercontent.com/g-timetracker/g-timetracker.github.io/master/images/screenshots/stats.png)
+//![screenshot-recent](https://raw.githubusercontent.com/g-timetracker/g-timetracker.github.io/master/images/screenshots/recent.png)
+//![screenshot-stats](https://raw.githubusercontent.com/g-timetracker/g-timetracker.github.io/master/images/screenshots/stats.png)
 
 You can also use it on several devices (currently, [Android](https://play.google.com/store/apps/details?id=org.g_timetracker), Windows and Linux
 are supported) and synchronize between them. Moreover, you are not tied to the
